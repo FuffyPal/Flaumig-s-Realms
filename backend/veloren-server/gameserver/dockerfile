@@ -1,0 +1,2 @@
+FROM registry.gitlab.com/veloren/veloren/server-cli:weekly
+
