@@ -3,14 +3,14 @@
 **Flaumig’s Realms**, hikayeler yazabileceğiniz ve bu hikayeleri **Matrix** veya **Steam** grup üzerinden **text-RP** olarak oynayabileceğiniz bir topluluk ve ekosistemdir. Ayrıca belirli oyunlarda etkinlikler ve eventler düzenlenmektedir.  
 
 **Şu anda desteklenen oyunlar:**
-- Astroneer  
-- Deadlock  
-- Elite Dangerous (Odyssey DLC)  
-- Palia  
-- Stardew Valley  
-- VRChat  
+- Astroneer  (no-free)
+- Deadlock  (alpha)
+- Elite Dangerous (Odyssey DLC) (non-free)
+- Palia  (free)
+- Stardew Valley (no-free) 
+- VRChat  (free)
 
-Gelecekte **Veloren** oyunu da eklenmesi planlanmaktadır.  
+Gelecekte **Veloren** ve **BAPBAP** oyunu da eklenmesi planlanmaktadır.  
 
 ---
 
